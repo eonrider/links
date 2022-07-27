@@ -2,7 +2,7 @@
 name: Kenny Qin
 
 # YOUR BRAND/PERSONAL TAGLINE
-tagline: Hey there. I'm Kenny. I'm a software developer who has a particular interest in data privacy.
+tagline: Hey there. I'm Kenny. I'm a software developer with a particular interest in data privacy.
 
 # YOUR/BRAND IMAGE URL
 Image_URL:
@@ -25,22 +25,9 @@ links:
     # LINKEDIN
   - Name: LinkedIn
     URL: https://www.linkedin.com/in
-    Username: harsh98trivedi
+    Username: kennyqin
     Color: '#2867B2'
     Icon-Class: fab fa-linkedin-in
-
-    # CUSTOM LINK
-  - Name: Blog
-    URL: https://harsh98trivedi.github.io/blog
-    Icon-Class: fas fa-link
-    Color: '#ffb142'
-    Text_Color: '#ffffff'
-
-  - Name: Links
-    URL: https://github.com/harsh98trivedi/links
-    Icon-Class: fas fa-link
-    Color: '#d94869'
-    Text_Color: '#ffffff'
 
 # YOU CAN REMOVE FOOTER COMPLETELY BY SIMPLY REMOVING EITHER THE YES OR REMOVING THE FOOTER STATEMENT BELOW COMPLETELY
 footer: ''
