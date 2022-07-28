@@ -17,7 +17,7 @@ links:
 
   - Name: Matrix
     URL: 'https://matrix.to/#/@kenny:kennyqin.com'
-    Icon-Class: fas fa-envelope
+    Icon-Class: fas fa-brackets-square
     Color: '#ffffff'
     Text_Color: '#000000'
   
